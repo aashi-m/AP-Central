@@ -1,9 +1,8 @@
 
 /**
- * Write a description of class Sec5B here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * Missed questions from Section 5B (score: 6/12)
+ * @Aashi   
+ * @03/10/2020
  */
 public class Sec5B
 {
