@@ -9,7 +9,15 @@ public class Sec5BQ1
 {
     public static void main(String[] args)
     {
-        //as seen in the other class, all three compile and work as intended
-        //can be test by making objects of all and trying w/ different parameters
+        BoolTest A = new BoolTest(5);
+        BoolTest B = new BoolTest(19);
+        
+        //should return false!
+        
+        System.out.println(A.isGreater(B));
+        System.out.println(A.isGreater2(B));
+        System.out.println(A.isGreater3(B));
+        
+        
     }
 }
