@@ -4,7 +4,7 @@
  * @Aashi
  * @03/11/2020
  */
-public class Sec6
+public class Sec6General
 {
     //  Question 3
     public static int checkString(String[] arr)
